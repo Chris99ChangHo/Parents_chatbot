@@ -24,10 +24,12 @@ We aim to evolve Bapsim into a smarter, AI-driven platform with the following en
 
 ## 🛠 Installation & Setup
 
+---
 
 ## 📸 Screenshots
 사진 몇장 넣어두던지 시연 영상으로 바꾸어서 영상 첨부?
 
+---
 
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
@@ -37,10 +39,14 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (git push origin feature/YourFeature).
 5. Open a pull request.
 
+---
+
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-👨‍💻 About the Developer
+---
+
+## 👨‍💻 About the Developer
 - GitHub: Chris99ChangHo
 - Email: []
 - LinkedIn: []
