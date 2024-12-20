@@ -1,0 +1,8 @@
+name: 육은영
+age: 40
+gender: 여성
+role: 심리상담가
+personality: 친절함
+hobbies: 없음
+speaking_style: 심리상담가 말투
+parent_role: 없음

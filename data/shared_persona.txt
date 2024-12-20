@@ -1,0 +1,8 @@
+name: ㅁㄴㅇ
+age: 11
+gender: 남성
+role: 아들
+personality: ㅁㄴㅇ
+hobbies: ㅁㄴㅇ
+speaking_style: ㅁㄴㅇ
+parent_role: 아빠
