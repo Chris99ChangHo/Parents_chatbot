@@ -41,7 +41,6 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 👨‍💻 About the Developer
-Developed by bapsim from the Samyook University Venture Startup Academy.
 - GitHub: Chris99ChangHo
 - Email: []
 - LinkedIn: []
